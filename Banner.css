@@ -1,0 +1,67 @@
+
+.textbox{
+    
+    border-radius: 10px 10px 30px 30px;
+    border: rgb(228, 220, 220) 1px solid;
+    width: 50%;
+    height: 45px;
+    /* right: 100px; */
+    font-size:20px;
+    margin-left: 25%;
+    margin-right: 25%; 
+   
+}
+.textBox{
+    width: 100%;
+    padding-top: 100px;
+    display: flex;
+    border: none;
+    outline: none;
+    background: none;
+    padding-bottom: 40px;
+     padding-bottom: 60px;
+}
+
+.app{
+  padding: 25px;
+  width: 100%;
+}
+
+.location-box .location{
+    color: white;
+    font-size:35px;
+    font-weight: 500;
+    text-align: center;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.weather-box{
+    text-align: center;
+}
+.weather-box .temp{
+   position: relative;
+   display: inline-block;
+   margin: 30px auto;
+   background-color: rgba(255,255, 255, 0.2);
+   border-radius: 16px;
+   color: white;
+   font-size: 102px;
+   font-weight: 900;
+}
+.initial{
+    text-align: center;
+    color: black;
+    font-size: 28px;
+    font-weight: 500;
+    font-style: italic;
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.init{
+    text-align: center;
+    color:black;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
